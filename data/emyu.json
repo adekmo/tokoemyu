@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Kit Red",
+            "image": "./img/products/jersey/jersey1.jpg",
+            "price": 760,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Jacket Red",
+            "image": "./img/products/jaket/jaket1.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Kit Full Red",
+            "image": "./img/products/jersey/jersey2.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Jersey Red Cavani",
+            "image": "./img/products/jersey/jersey3.jpg",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Hoodie Grey",
+            "image": "./img/products/jaket/jaket2.jpg",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "GK Jaket",
+            "image": "./img/products/jaket/jaket3.jpg",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Jersey Red Amad",
+            "image": "./img/products/jersey/jersey4.jpg",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Retro Red 99",
+            "image": "./img/products/retro/retro1.jpg",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Retro White 99",
+            "image": "./img/products/retro/retro2.jpg",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Kit Training I",
+            "image": "./img/products/training/training1.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Kit Training II",
+            "image": "./img/products/training/training2.jpg",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "./img/products/training/tshirt1.jpg",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Retro Red 2000",
+            "image": "./img/products/retro/retro3.jpg",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Kit Retro 98",
+            "image": "./img/products/retro/retro4.jpg",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "GK Training II",
+            "image": "./img/products/training/training5.jpg",
+            "price": 550,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Kit Red Pogba",
+            "image": "./img/products/jersey/jersey5.jpg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Kit Special",
+            "image": "./img/products/jersey/jersey6.jpg",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Kit 2nd",
+            "image": "./img/products/jersey/jersey7.jpg",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Gelas",
+            "image": "./img/products/training/merch1.jpg",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Masker",
+            "image": "./img/products/training/merch2.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Training Kit III",
+            "image": "./img/products/training/training3.jpg",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Training Kit Orange",
+            "image": "./img/products/training/training4.jpg",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Kit 3rd Fullset",
+            "image": "./img/products/jersey/jersey8.jpg",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Kit 2nd James",
+            "image": "./img/products/jersey/jersey9.jpg",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Kit White",
+            "image": "./img/products/jersey/jersey10.jpg",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
